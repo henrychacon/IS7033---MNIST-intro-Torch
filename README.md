@@ -6,4 +6,7 @@ Since in this case, the idea is not to train a sophisticated model, but practice
 
 Hence, the trained model has 28*28 input units and 10 outputs. The distribution of the weights of each unit and a map of each one is also presented.
 
-**Theorem**: The translation $[\![e]\!]$ given by
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+$`\sqrt{2}`$
