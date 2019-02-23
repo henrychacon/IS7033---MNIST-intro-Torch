@@ -1,4 +1,4 @@
-# MNIST example using a GPU units
+# MNIST example using a GPU unit
 
 The aim of the attached project is to test the use of GPU to process torch tensors associated with the weights and bias in simple perceptron units in figures ten labels figures of 28x28 pixels. 
 
